@@ -12,7 +12,7 @@ const aboutMe = {
        tools: [Git, GitHub]
    },
    currentOccupation: ["University student, open for job opportunities"],
-   challenge: "Searching development in the testing area through projects.",
+   challenge: "Searching development in the testing area through projects."
 }
 
 ```
